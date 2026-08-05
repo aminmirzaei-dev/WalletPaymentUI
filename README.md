@@ -1,4 +1,4 @@
-# WalletPaymentUi
+# Wallet Payment UI
 
 <h2> 👨‍💻 About Project</h2>
 Designing the user interface of a payment wallet in WPF<br />
